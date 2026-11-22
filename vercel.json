@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/img/round-bezel-solitaire-onbody-640.webp", "destination": "/round-bezel-solitaire-onbody-640.webp" },
+    { "source": "/img/round-bezel-solitaire-product-1024.webp", "destination": "/round-bezel-solitaire-product-1024.webp" },
+    { "source": "/img/round-bezel-solitaire-product-640.webp", "destination": "/round-bezel-solitaire-product-640.webp" },
+    { "source": "/img/vintage-floral-halo-lifestyle-1024.webp", "destination": "/vintage-floral-halo-lifestyle-1024.webp" },
+    { "source": "/img/vintage-floral-halo-lifestyle-640.webp", "destination": "/vintage-floral-halo-lifestyle-640.webp" },
+    { "source": "/img/vintage-floral-halo-onbody-1024.webp", "destination": "/vintage-floral-halo-onbody-1024.webp" },
+    { "source": "/img/vintage-floral-halo-onbody-640.webp", "destination": "/vintage-floral-halo-onbody-640.webp" },
+    { "source": "/img/vintage-floral-halo-product-1024.webp", "destination": "/vintage-floral-halo-product-1024.webp" },
+    { "source": "/img/vintage-floral-halo-product-640.webp", "destination": "/vintage-floral-halo-product-640.webp" }
+  ]
+}
